@@ -1,0 +1,5 @@
+{
+  "name": "SIPOC Reviewer - Projeto Crescer",
+  "description": "A review tool for the Customer Service SIPOC project, analyzing Suppliers, Inputs, Process, Outputs, and Customers.",
+  "requestFramePermissions": []
+}
